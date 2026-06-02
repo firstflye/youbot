@@ -30,7 +30,7 @@ def update_title():
 
         # IMPORTANT: Replace this with your actual Video ID once you upload
         # Example: VIDEO_ID = "dQw4w9WgXcQ"
-        VIDEO_ID = "YOUR_VIDEO_ID" 
+        VIDEO_ID = "-wC7WP5cEZY"  
 
         if VIDEO_ID == "YOUR_VIDEO_ID":
             print("Error: You haven't set your VIDEO_ID yet in main.py")
